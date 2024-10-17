@@ -31,21 +31,25 @@ h2 {
     
 }
 #page1{
-    background-color: rgb(234, 125, 9);
-    padding-left: 50px;
+    background-color: rgb(255, 130, 41);
+    border: 1px solid rgb(255, 129, 39);
+
 }
-.box1{
-    display: flex;
-    height: 700px;
-    width: 1400px;
-    background-color: black;
-    border: 10px solid;   
+.background1{
+    background-image: url(../assets/img-5uDzkRqlsYq6nikab5KJB\ \(1\).jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
 }
+
 
 .headerName{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 .header{
     text-align: center;
@@ -55,11 +59,12 @@ h2 {
     
 }
 .box2{
-    display: flex;
     height: 200px;
     width: 1400px;
-    background-color: rgb(4, 4, 4);
-    border: 10px solid;
+    background-color: rgba(4, 4, 4, 0.8);
+    border: 5px solid;
+    border-color: rgb(0, 0, 0);
+   margin-top: 380px;
   
 }
 .description1{
