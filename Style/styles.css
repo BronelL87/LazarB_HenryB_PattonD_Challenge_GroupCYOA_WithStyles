@@ -1,4 +1,23 @@
-h1 {
-    text-align: center;
+body {
+    background-color: black;
+}
+
+
+
+#startbutton {
+    display: flex;
+    justify-content: center;
+    
+}
+#buttondetails {
+    background-color: orangered;
     font-family: fantasy;
+    font-size: 50px;
+    width: 300px;
+    height: 100px;
+}
+
+#titlepic {
+    display: flex;
+    justify-content: center;
 }
