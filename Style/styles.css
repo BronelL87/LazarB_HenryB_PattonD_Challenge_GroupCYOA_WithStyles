@@ -2,6 +2,8 @@
     background-color: black;
     background-image: url(../assets/getimg_ai_img-kbWQrDSPnQUAyiJQD5ExZ.jpeg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 h2 {
     color: white;
@@ -11,6 +13,8 @@ h2 {
 #startbutton {
     display: flex;
     justify-content: center;
+    position: relative;
+    margin-top: 20%;
     
 }
 #buttondetails {
