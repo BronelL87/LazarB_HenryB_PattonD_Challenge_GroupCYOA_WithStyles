@@ -26,5 +26,20 @@
     
 }
 #page1{
+    background-color: rgb(234, 125, 9);
+    padding-left: 50px;
+}
+.box1{
+    display: flex;
+    height: 700px;
+    width: 1400px;
     background-color: black;
+    border: 10px solid;
+    
+    
+}
+.header{
+    text-align: center;
+    font-size: 50px;
+    
 }
