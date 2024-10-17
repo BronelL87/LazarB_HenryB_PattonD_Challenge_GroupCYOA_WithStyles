@@ -59,8 +59,13 @@ h2 {
     display: flex;
     height: 200px;
     width: 1400px;
-    background-color: white;
+    background-color: rgb(4, 4, 4);
     border: 10px solid;
-    opacity: 35%;
+  
 }
-
+.description1{
+    margin-top: 50px;
+    color: rgb(246, 243, 243);
+    font-size: 30px;
+    font-weight: 700;  
+}
