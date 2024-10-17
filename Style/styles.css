@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    background-image: url(../assets/getimg_ai_img-kbWQrDSPnQUAyiJQD5ExZ.jpeg);
+    background-size: cover;
 }
 
 
@@ -20,4 +22,6 @@ body {
 #titlepic {
     display: flex;
     justify-content: center;
+    height: 600px;
+    
 }
