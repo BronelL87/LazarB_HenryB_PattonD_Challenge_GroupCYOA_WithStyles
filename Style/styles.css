@@ -3,7 +3,9 @@
     background-image: url(../assets/getimg_ai_img-kbWQrDSPnQUAyiJQD5ExZ.jpeg);
     background-size: cover;
 }
-
+h2 {
+    color: white;
+}
 
 
 #startbutton {
