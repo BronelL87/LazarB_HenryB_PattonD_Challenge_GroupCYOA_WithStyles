@@ -1,4 +1,4 @@
-body {
+#homePage {
     background-color: black;
     background-image: url(../assets/getimg_ai_img-kbWQrDSPnQUAyiJQD5ExZ.jpeg);
     background-size: cover;
@@ -24,4 +24,7 @@ body {
     justify-content: center;
     height: 600px;
     
+}
+#page1{
+    background-color: black;
 }
