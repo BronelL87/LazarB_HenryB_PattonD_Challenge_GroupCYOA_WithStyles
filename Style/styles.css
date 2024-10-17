@@ -36,12 +36,27 @@ h2 {
     height: 700px;
     width: 1400px;
     background-color: black;
-    border: 10px solid;
-    
-    
+    border: 10px solid;   
+}
+
+.headerName{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .header{
     text-align: center;
     font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
     
 }
+.box2{
+    display: flex;
+    height: 200px;
+    width: 1400px;
+    background-color: white;
+    border: 10px solid;
+    opacity: 35%;
+}
+
