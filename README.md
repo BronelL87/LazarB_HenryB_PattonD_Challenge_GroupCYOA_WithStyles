@@ -8,6 +8,6 @@
 
 ### Peer Review
 
-**Reviewer**:
+**Reviewer**:Alan Batres
 
-**Reviewer Notes**:
+**Reviewer Notes**: I really like the story and the theme. Good job on the the webpage the only thing I would say to fix is the buttons for the multiple options because the button itself doesn't work unless you the text instead
