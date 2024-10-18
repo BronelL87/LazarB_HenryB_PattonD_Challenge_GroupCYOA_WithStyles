@@ -22,6 +22,8 @@ h2 {
     font-size: 30px;
     width: 250px;
     height: 50px;
+    border: 1px black;
+    border-radius: 10px;
 }
 
 #titlepic {
@@ -79,7 +81,7 @@ h2 {
     background-color: rgba(4, 4, 4, 0.8);
     border: 5px solid;
     border-color: rgb(0, 0, 0);
-   margin-top: 380px;
+   margin-top: 360px;
   
 }
 .description1{
@@ -102,6 +104,7 @@ h2 {
     background-color: rgb(255, 130, 41);
     
 }
+
 .background1ch1{
     background-image: url(../assets/img-3JqpPYh84dITscuw0Baei.jpg);
     background-size: 100% 100%;
@@ -110,3 +113,14 @@ h2 {
     background-attachment: fixed;
     margin-top: -20px;
 }
+
+
+
+
+
+
+
+
+
+
+
