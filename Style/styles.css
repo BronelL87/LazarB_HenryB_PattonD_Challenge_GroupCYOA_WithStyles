@@ -97,7 +97,14 @@ h2 {
     
 }
 
-
+.background1ch1{
+    background-image: url(../assets/img-3JqpPYh84dITscuw0Baei.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
 
 
 
