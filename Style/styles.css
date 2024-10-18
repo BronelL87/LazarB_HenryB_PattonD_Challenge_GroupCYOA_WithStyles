@@ -76,6 +76,25 @@ h2 {
     background-attachment: fixed;
     margin-top: -20px;
 }
+.background2ch2{
+    background-image: url(../assets/thirsty..jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+
+
+}
+.background2ch1{
+    background-image: url(../assets/img-KmHmVtAB2ucsWW8FUjbQR.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+
+}
 
 
 
