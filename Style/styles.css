@@ -77,6 +77,8 @@ h2 {
     margin-top: -20px;
 }
 
+
+
 .backgroundneutral {
     background-image: url(../assets/passedout.jpg);
     background-size: 100% 100%;
@@ -93,6 +95,11 @@ h2 {
     background-position: center;
     background-attachment: fixed;
     margin-top: -20px;
+}
+
+.descriptionbad {
+    font-size: 20px;
+    color: white;
 }
 
 .backgroundgood {
