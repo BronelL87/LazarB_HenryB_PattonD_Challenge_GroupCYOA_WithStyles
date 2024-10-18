@@ -5,6 +5,7 @@
     background-position: center;
     background-attachment: fixed;
 }
+
 h2 {
     color: white;
 }
@@ -14,8 +15,9 @@ h2 {
     display: flex;
     justify-content: center;
     margin-top: 27%;
-    
+
 }
+
 #buttondetails {
     background-color: orangered;
     font-family: fantasy;
@@ -30,14 +32,16 @@ h2 {
     display: flex;
     justify-content: center;
     height: 600px;
-    
+
 }
-#pagebg{
+
+#pagebg {
     background-color: rgb(255, 130, 41);
     border: 1px solid rgb(255, 129, 39);
 
 }
-.background1{
+
+.background1 {
     background-image: url(../assets/closet.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -45,7 +49,17 @@ h2 {
     background-attachment: fixed;
     margin-top: -20px;
 }
-.background1ch2{
+
+.background1ch1 {
+    background-image: url(../assets/img-3JqpPYh84dITscuw0Baei.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
+
+.background1ch2 {
     background-image: url(../assets/nocostume.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -53,7 +67,8 @@ h2 {
     background-attachment: fixed;
     margin-top: -20px;
 }
-.background2{
+
+.background2 {
     background-image: url(../assets/store.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -90,40 +105,43 @@ h2 {
 }
 
 
-.headerName{
+.headerName {
     text-align: center;
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
-.header{
+
+.header {
     text-align: center;
     font-size: 50px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
-    
+
 }
-.box2{
+
+.box2 {
     height: 200px;
     background-color: rgba(4, 4, 4, 0.8);
     border: 5px solid;
     border-color: rgb(0, 0, 0);
-   margin-top: 360px;
-  
+    margin-top: 360px;
+
 }
-.description1{
+
+.description1 {
     margin-top: 25px;
     color: rgb(246, 243, 243);
     font-size: 30px;
-    font-weight: 700;  
+    font-weight: 700;
 }
 
-.buttonsPosition{
+.buttonsPosition {
     display: flex;
     justify-content: space-evenly;
 }
 
-.buttonStyles{
+.buttonStyles {
     border: 1px black;
     border-radius: 10px;
     width: 150px;
@@ -131,51 +149,34 @@ h2 {
     background-color: rgb(255, 130, 41);
 }
 
-.buttonStylesYes{
+.buttonStylesYes {
     border: 1px black;
     border-radius: 10px;
     width: 150px;
     height: 35px;
     background-color: green;
 }
-.buttonStylesNo{
+
+.buttonStylesNo {
     border: 1px black;
     border-radius: 10px;
     width: 150px;
     height: 35px;
     background-color: red;
 }
-.choiceStyles{
+
+.choiceStyles {
     color: black;
     font-size: 20px;
 }
 
-.storyMainMenuBtn{
+.storyMainMenuBtn {
     background: black;
     border: 1px black;
     border-radius: 10px;
     width: 100px;
 }
-.txtColor{
+
+.txtColor {
     color: orange;
 }
-
-.background1ch1{
-    background-image: url(../assets/img-3JqpPYh84dITscuw0Baei.jpg);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    margin-top: -20px;
-}
-
-
-
-
-
-
-
-
-
-
-
