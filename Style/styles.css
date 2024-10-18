@@ -77,7 +77,32 @@ h2 {
     margin-top: -20px;
 }
 
+.background3 {
+    background-image: url(../assets/);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
 
+.background3ch1 {
+    background-image: url(../assets/);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
+
+.background3ch2 {
+    background-image: url(../assets/);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
 
 .backgroundneutral {
     background-image: url(../assets/passedout.jpg);
