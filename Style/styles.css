@@ -73,3 +73,14 @@ h2 {
     font-size: 30px;
     font-weight: 700;  
 }
+
+.buttonsPosition{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buttonStyles{
+    border-radius: 2px;
+    width: 100px;
+    height: 50px;
+}
