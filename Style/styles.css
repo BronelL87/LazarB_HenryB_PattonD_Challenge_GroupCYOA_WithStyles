@@ -97,6 +97,16 @@ h2 {
     
 }
 
+.storyMainMenuBtn{
+    background: black;
+    border: 1px black;
+    border-radius: 10px;
+    width: 100px;
+}
+.txtColor{
+    color: orange;
+}
+
 .background1ch1{
     background-image: url(../assets/img-3JqpPYh84dITscuw0Baei.jpg);
     background-size: 100% 100%;
