@@ -62,6 +62,33 @@ h2 {
     margin-top: -20px;
 }
 
+.backgroundneutral {
+    background-image: url(../assets/passedout.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
+
+.backgroundbad {
+    background-image: url(../assets/werewolf.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
+
+.backgroundgood {
+    background-image: url(../assets/girl.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: -20px;
+}
+
 
 .headerName{
     text-align: center;
